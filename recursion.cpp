@@ -3,7 +3,7 @@ using namespace std;
 
 //Sum of 1st n numbers{Parameterised Way}
 /*
-void parameterised(int sum,int n)
+void parameterised(int sum,int n)               /*LECTURE 4 IS ALSO COVERED*/
 {
 if(n<0)
 {
